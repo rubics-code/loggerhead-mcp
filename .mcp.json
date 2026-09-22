@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "loggerhead": {
+      "command": "/Applications/Loggerhead.app/Contents/Resources/loggerhead-mcp"
+    }
+  }
+}
