@@ -1,0 +1,23 @@
+{
+  "name": "loggerhead",
+  "displayName": "Loggerhead",
+  "version": "1.11.0",
+  "description": "Read the logs, metrics, and traces of the app you are editing, from the Loggerhead Mac app. The Loggerhead app must be running.",
+  "author": {
+    "name": "Rubics Code",
+    "email": "support@getloggerhead.com",
+    "url": "https://getloggerhead.com"
+  },
+  "homepage": "https://getloggerhead.com/docs/mcp-server/setup/",
+  "repository": "https://github.com/rubics-code/loggerhead-mcp",
+  "keywords": [
+    "opentelemetry",
+    "observability",
+    "logs",
+    "metrics",
+    "traces",
+    "otlp",
+    "monitoring",
+    "macos"
+  ]
+}
