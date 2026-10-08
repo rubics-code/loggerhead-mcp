@@ -1,5 +1,7 @@
 # Loggerhead MCP server
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/rubics-code-loggerhead-mcp-so8512?v=a299c758f1e53f0a562b1036791bde0b)](https://m8ven.ai/mcp/rubics-code-loggerhead-mcp-so8512?s=readme)
+
 **Your coding agent reads your app's logs, metrics, and traces.**
 
 [Loggerhead](https://getloggerhead.com) is a native Mac app that receives OpenTelemetry logs, metrics, and traces from the software you run on your own Mac, and stores them in a DuckDB file on your disk. The MCP server runs inside the app. This repository holds `loggerhead-mcp`, the small bridge that connects Claude, Cursor, Codex, Windsurf, or any other MCP client to it.
@@ -74,4 +76,6 @@ The registry name of this server is `com.getloggerhead/loggerhead`.
 
 ## Licence
 
-The bridge is part of Loggerhead, a proprietary application by Rubics Code (ABN 40 440 756 434), Australia. The app has a free tier. The source of the app is not public.
+The `loggerhead-mcp` bridge and the files in this repository are under the [MIT licence](LICENSE).
+
+The bridge connects to Loggerhead, a proprietary Mac app by Rubics Code (ABN 40 440 756 434), Australia. The app has a free tier, and the source of the app is not public. The [Loggerhead terms of service](https://getloggerhead.com/terms) apply to the app.

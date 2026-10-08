@@ -10,6 +10,7 @@
   },
   "homepage": "https://getloggerhead.com/docs/mcp-server/setup/",
   "repository": "https://github.com/rubics-code/loggerhead-mcp",
+  "license": "MIT",
   "keywords": [
     "opentelemetry",
     "observability",
